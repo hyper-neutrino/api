@@ -1,0 +1,226 @@
+genshin:
+    characters:
+        aether:
+            name: Aether
+            element: other
+        albedo:
+            name: Albedo
+            element: geo
+        alhaitham:
+            name: Alhaitham
+            element: dendro
+        aloy:
+            name: Aloy
+            element: cryo
+        amber:
+            name: Amber
+            element: pyro
+        ayaka:
+            name: Kamisato Ayaka
+            short: Ayaka
+            element: cryo
+        ayato:
+            name: Kamisato Ayato
+            short: Ayato
+            element: hydro
+        baizhu:
+            name: Baizhu
+            element: dendro
+        barbara:
+            name: Barbara
+            element: hydro
+        beidou:
+            name: Beidou
+            element: electro
+        bennett:
+            name: Bennett
+            element: pyro
+        candace:
+            name: Candace
+            element: hydro
+        chongyun:
+            name: Chongyun
+            element: cryo
+        collei:
+            name: Collei
+            element: dendro
+        cyno:
+            name: Cyno
+            element: electro
+        dainsleif:
+            name: Dainsleif
+            element: other
+        dehya:
+            name: Dehya
+            element: pyro
+        diluc:
+            name: Diluc
+            element: pyro
+        diona:
+            name: Diona
+            element: cryo
+        dori:
+            name: Dori
+            element: electro
+        eula:
+            name: Eula
+            element: cryo
+        faruzan:
+            name: Faruzan
+            element: anemo
+        fischl:
+            name: Fischl
+            element: electro
+        ganyu:
+            name: Ganyu
+            element: cryo
+        gorou:
+            name: Gorou
+            element: geo
+        heizou:
+            name: Shikanoin Heizou
+            short: Heizou
+            element: anemo
+        hutao:
+            name: Hu Tao
+            element: pyro
+        itto:
+            name: Arataki Itto
+            short: Itto
+            element: geo
+        jean:
+            name: Jean
+            element: anemo
+        kaeya:
+            name: Kaeya
+            element: cryo
+        kaveh:
+            name: Kaveh
+            element: dendro
+        kazuha:
+            name: Kaedehara Kazuha
+            short: Kazuha
+            element: anemo
+        keqing:
+            name: Keqing
+            element: electro
+        kirara:
+            name: Kirara
+            element: dendro
+        klee:
+            name: Klee
+            element: pyro
+        kokomi:
+            name: Sangonomiya Kokomi
+            short: Kokomi
+            element: hydro
+        layla:
+            name: Layla
+            element: cryo
+        lisa:
+            name: Lisa
+            element: electro
+        lumine:
+            name: Lumine
+            element: other
+        mika:
+            name: Mika
+            element: cryo
+        mona:
+            name: Mona
+            element: hydro
+        nahida:
+            name: Nahida
+            element: dendro
+        nilou:
+            name: Nilou
+            element: hydro
+        ningguang:
+            name: Ningguang
+            element: geo
+        noelle:
+            name: Noelle
+            element: geo
+        qiqi:
+            name: Qiqi
+            element: cryo
+        raiden:
+            name: Raiden Shogun
+            short: Raiden
+            element: electro
+        razor:
+            name: Razor
+            element: electro
+        rosaria:
+            name: Rosaria
+            element: cryo
+        sara:
+            name: Kujou Sara
+            short: Sara
+            element: electro
+        sayu:
+            name: Sayu
+            element: anemo
+        shinobu:
+            name: Kuki Shinobu
+            short: Shinobu
+            element: electro
+        shenhe:
+            name: Shenhe
+            element: cryo
+        sucrose:
+            name: Sucrose
+            element: anemo
+        tartaglia:
+            name: Tartaglia
+            short: Childe
+            element: hydro
+        thoma:
+            name: Thoma
+            element: pyro
+        tighnari:
+            name: Tighnari
+            element: dendro
+        traveler:
+            name: Traveler
+            element: other
+        venti:
+            name: Venti
+            element: anemo
+        wanderer:
+            name: Wanderer
+            element: anemo
+        xiangling:
+            name: Xiangling
+            element: pyro
+        xiao:
+            name: Xiao
+            element: anemo
+        xingqiu:
+            name: Xingqiu
+            element: hydro
+        xinyan:
+            name: Xinyan
+            element: pyro
+        yae:
+            name: Yae Miko
+            short: Yae
+            element: electro
+        yanfei:
+            name: Yanfei
+            element: pyro
+        yaoyao:
+            name: Yaoyao
+            element: dendro
+        yelan:
+            name: Yelan
+            element: hydro
+        yoimiya:
+            name: Yoimiya
+            element: pyro
+        yunjin:
+            name: Yun Jin
+            element: geo
+        zhongli:
+            name: Zhongli
+            element: geo
